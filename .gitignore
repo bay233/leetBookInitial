@@ -128,3 +128,6 @@ buildNumber.properties
 .settings/
 .project
 .classpath
+
+# test
+test/
